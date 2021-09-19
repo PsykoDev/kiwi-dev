@@ -18,8 +18,12 @@ New to the community? Got a lot of questions but don't know where to post them? 
 # Maintainers 
 
 - Alexandre2BI (Twitter: @Alexandre2BI)
+- NoonSense (Twitter: @NoonSenseGames)
 
 # Contributors
 
 - [Tomgelu](https://github.com/tomgelu) (LUA/Love2D)
-- [PsykoDev](https://github.com/PsykoDev) (UNITY)
+- [PsykoDev](https://github.com/PsykoDev) (UNITY/DISCORD/AI)
+- [NoonSense](https://github.com/NoonSense) (UNITY)
+- [HITOA](https://github.com/HITOA) (UNITY)
+- [XanTiuM-Dev](https://github.com/XanTiuM-Dev) (UNITY)
